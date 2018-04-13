@@ -1,6 +1,6 @@
 import random
 """
-We ask users how can view your password
+
 """
 
 def questPassw(quess):
